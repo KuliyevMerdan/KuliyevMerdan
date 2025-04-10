@@ -1,4 +1,5 @@
 # 💫 About Me:
+Merdan Kuliyev
 👨‍💻 Frontend Wizard | 🥑 Probably Debugging Right Now<br>🚀 Building things nobody asked for, but everyone secretly needed.<br>💡 Turns coffee into code and bugs into features.<br>📦 80% JavaScript, 20% memes, 100% committed (to Git).<br>🐛 If you found a bug, it's a feature in stealth mode.<br>🎯 Currently mastering the art of console.log-driven development.
 
 
